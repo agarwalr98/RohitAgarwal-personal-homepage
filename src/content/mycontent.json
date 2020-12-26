@@ -1,68 +1,61 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
-	"Name": "Aditya Ketkar",
+	"Title": "Rohit Agarwal | Personal Webpage",
+	"Name": "Rohit Agarwal",
 	"Description": [
-		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
-		"I grab every chance I get to travel, learn and create."
+		"Final year CSE undergrad at IIT Mandi. Passionate about Machine Learning.",
+		"I grab every chance I get to explore, learn and create."
 	],
-	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
-	"BackgroundURL": "",
+	"MainImage": "https://i.imgur.com/v6RdDHz.jpg",
+	"BackgroundURL": "https://images.unsplash.com/photo-1537884944318-390069bb8665?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8Y29kZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
 
-	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
+	"AboutImage": "",
 	"AboutContent": [
-		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
-		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
-		"I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
-		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
+		"I am a Computer Science student looking for a passionate team to work with.",
+		"If you can’t find me, it’s because I’m already sleeping, off to a hike, or studying for an exam",
+		"I am passionate about Machine Learning and it's applications.",
+		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to explore and work together whenever I can."
 	],
 
 	"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
+		"I am currently a final year CSE student at IIT Mandi."
 	],
-	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
+	"WorkImage": "https://lh3.googleusercontent.com/proxy/6wXreWMsorluCObe4uFGMW_3qR2rHjp4i9ef8lI_X9T8gmS6YO3JN5rlrCOMyYHdWvjU6KMTCvAUQhDilNd3eBZA4uzz-YLZgX1EKars",
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
-			"name": "Amazon India",
+			"name": "R3Y Gaming & Speedo Agency",
 			"link": "#"
 		},
 		{
-			"name": "North-Eastern Space Application Center (ISRO)",
-			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
+			"name": "Siemens Technology, Bangalore, India",
+			"link": "#"
 		},
 		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
-			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
+			"name": "Techla",
+			"link": "#"
 		}
 	],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
 	"Projects": [{
-			"name": "EisenList",
-			"link": "https://github.com/adityaketkar/eisenlist"
+			"name": "BadeLog-An alumni web portal",
+			"link": "https://github.com/agarwalr98/badelog"
 		},
 		{
-			"name": "DelOr",
-			"link": "https://bitsdelor.wixsite.com/delor"
+			"name": "Command Line Website",
+			"link": "https://github.com/agarwalr98/command-line-website"
 		},
 		{
-			"name": "Alexa Music Companion",
-			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
-		},
-		{
-			"name": "Gatsby Personal Webpage",
-			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
+			"name": "Automatic Face Recognition Attendance System",
+			"link": "https://github.com/agarwalr98/CS308-Project"
 		}
 	],
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
-	"CV": "https://www.visualcv.com/aditya-ketkar/",
-	"Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing",
+	"CV": "https://drive.google.com/file/d/1MpQG95O0DkhaGXqsguuS6rYw3-EsYVMk/view?usp=sharing",
+	"Resume": "https://drive.google.com/file/d/1MpQG95O0DkhaGXqsguuS6rYw3-EsYVMk/view?usp=sharing",
 
-	"emailid": "mailto:adityaketkar848@gmail.com",
-	"linkedin": "https://linkedin.com/in/adityaketkar",
+	"emailid": "mailto:agarwal.r1998@gmail.com",
+	"linkedin": "https://linkedin.com/in/agarwalr98",
 	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
-	"medium": "https://medium.com/@ketkaraditya"
+	"facebook": "https://www.facebook.com/agarwalr98",
+	"github": "https://github.com/agarwalr98"
 }
